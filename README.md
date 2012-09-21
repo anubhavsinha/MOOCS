@@ -1,4 +1,4 @@
-MOOCS
+MOOCs(Massive open online courses)
 ===
 
 [coursera](http://coursera.org/)    
